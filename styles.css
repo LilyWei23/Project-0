@@ -1,0 +1,25 @@
+form {
+    text-align: center
+}
+
+input{
+    border-radius: 10px;
+}
+
+input[type=submit] {
+    color: white;
+    background-color: blue;
+}
+
+h4{
+    text-align: right;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    display: block;
+}
